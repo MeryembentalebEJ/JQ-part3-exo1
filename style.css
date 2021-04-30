@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-family: 'Ranchers', cursive;
+    text-align: center;
+}
+#clique-moi{
+   border: none;
+   font-family: 'Ranchers', cursive;
+   margin: 30px;
+   font-size: 30px;
+   background-color: #a1cbae;
+
+}
